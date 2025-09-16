@@ -1,99 +1,109 @@
 # TOPAY Foundation
 
 [![Website](https://img.shields.io/badge/website-topayfoundation.com-blue)](https://www.topayfoundation.com/)  
-[![Slack / Discord / Community]()]()  
-[![License](https://img.shields.io/badge/license-MIT-green)]()  
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-@topayfoundation-blue?logo=telegram)](https://t.me/topayfoundation)  
+[![Discord](https://img.shields.io/badge/Discord-Server-TOPAY-purple?logo=discord)](https://discord.gg/tqRcdbnvXx)  
+[![X / Twitter](https://img.shields.io/badge/X-@topayfoundation-skyblue?logo=x)](https://x.com/topayfoundation)  
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/TOPAY-FOUNDATION/.github/blob/main/LICENSE)
 
 ---
 
 ## About
 
-**TOPAY Foundation** is a blockchain / Web3 organization established in **2024** with a mission to build the world’s first *interest-free* blockchain ecosystem. We aim to combine ethical finance, transparency, and decentralized systems to provide financial services that are fair, accessible, and built on trust. :contentReference[oaicite:0]{index=0}
+**TOPAY Foundation** is a blockchain / Web3 organization founded with the mission to build an interest-free blockchain ecosystem. We combine ethical finance, transparency, and decentralized systems to deliver financial services that are fair, accessible, and built on trust.  
 
 ---
 
 ## Our Values
 
-- **100% Interest-Free**: No lending interest; all financial activities uphold ethical finance principles. :contentReference[oaicite:1]{index=1}  
-- **Transparency & Integrity**: Transactions, governance, and system behavior are openly documented and auditable. :contentReference[oaicite:2]{index=2}  
-- **Global Accessibility**: Always-on, cross-border, available across many countries. :contentReference[oaicite:3]{index=3}  
-- **Technological Innovation**: Using blockchain, smart contracts, and post-quantum cryptography (e.g. Z512) to build secure, future-proof infrastructure. :contentReference[oaicite:4]{index=4}  
+- **Interest-Free Finance** — We avoid interest-based lending; financial interactions follow ethical finance principles.  
+- **Transparency & Integrity** — Open governance, auditable contracts, clear documentation.  
+- **Global Access** — Built to serve users everywhere, across borders.  
+- **Security & Innovation** — Incorporating strong cryptography (including post-quantum approaches, e.g. Z512), secure smart‐contracts, and modern tools.  
 
 ---
 
 ## What We Do
 
-- Develop **blockchain & smart contract infrastructure** with strict ethical finance constraints. :contentReference[oaicite:5]{index=5}  
-- Publish & maintain cryptographic libraries (e.g. *TOPAY-Z512*), including post-quantum security, for use in various environments (JS, Go, Rust). :contentReference[oaicite:6]{index=6}  
-- Build the ecosystem: Wallets, validator networks, governance tools, mobile applications. :contentReference[oaicite:7]{index=7}  
-- Community building: Education, ethical finance programs, partnerships with fintech, institutions, etc. :contentReference[oaicite:8]{index=8}  
+- Develop blockchain infrastructure & smart contracts adhering to ethical finance constraints.  
+- Produce cryptographic libraries (e.g. *TOPAY-Z512*) for use in JavaScript, Go, Rust, etc.  
+- Build tools and utilities: SDKs, wallets, validators, governance dashboards.  
+- Grow community and partnerships in tech, finance, education to broaden adoption.  
 
 ---
 
 ## Roadmap
 
-Here’s where we’re headed (publicly known plan): :contentReference[oaicite:9]{index=9}
+Here’s a high-level view of where we are and where we’re going:
 
-| Phase | Description | Timeline |
+| Phase | Description | Timeline* |
 |---|-------------|----------|
-| Foundation & Vision | Establish organization, define mission & values | Q1–Q2 2025 :contentReference[oaicite:10]{index=10} |
-| Community & Ecosystem Setup | Grow user and developer base, create partnerships | Q2–Q3 2025 :contentReference[oaicite:11]{index=11} |
-| Validator Network & Testnet Prep | Set up infrastructure & test network | Q3–Q4 2025 :contentReference[oaicite:12]{index=12} |
-| Blockchain Testnet Launch | Public testing of chain technology | Q4 2025 :contentReference[oaicite:13]{index=13} |
-| Mainnet & Token Event | Launch mainnet, distribute $TOPAY token, begin full operations | Q1-Q2 2026 :contentReference[oaicite:14]{index=14} |
-| Wallets & Ecosystem Tools | Mobile/desktop wallets, SDKs, governance portal, etc. | Q2-Q3 2026 :contentReference[oaicite:15]{index=15} |
+| Foundation & Vision | Define mission, set up organization & governance | Already underway |
+| Community & Ecosystem Setup | Build developer & user base, partner with institutions | In progress |
+| Validator Network & Testnet | Infrastructure setup, internal & public testnet rollout | Coming soon |
+| Mainnet Launch | Full network go-live, token & governance activation | Future phase |
+| Tools & SDKs | Wallets, developer tools, wallets, governance portal, etc. | Parallel tracks |
+
+> *Timelines are indicative and subject to change based on development, reviews, and regulatory/compliance work.
 
 ---
 
-## Key Projects / Repos
+## Key Projects
 
-- **TOPAY-Z512** — Quantum-resistant cryptography library (JS/TS + Go/Rust implementations) :contentReference[oaicite:16]{index=16}  
-- Smart contract templates & tools (coming soon)  
-- Wallet & mobile SDKs (in development)  
+- **TOPAY-Z512** — Our post-quantum cryptography library.  
+- Smart contract framework & templates.  
+- Wallet & SDK libraries.  
+- Governance tools and protocol utilities.
 
 ---
 
 ## Team
 
-Our leadership comes from backgrounds in ethical finance, blockchain development, and operations. Publicly available team members include: :contentReference[oaicite:17]{index=17}
+Here are some of the public leadership and core contributors:
 
-- **Shahriya Hossain** — Founder & CEO :contentReference[oaicite:18]{index=18}  
-- **Nowroj Ahmed** — Chief Operating Officer :contentReference[oaicite:19]{index=19}  
-- **Qazeem MD Pelumi** — Head of Marketing :contentReference[oaicite:20]{index=20}  
-- **Mostafizur Rahman Shuvo** — Head of Operations :contentReference[oaicite:21]{index=21}  
+- **Shahriya Hossain** — Founder & CEO  
+- **Nowroj Ahmed** — Chief Operating Officer  
+- **Qazeem MD Pelumi** — Head of Marketing  
+- **Mostafizur Rahman Shuvo** — Head of Operations  
 
 ---
 
-## Usage & Contribution
+## Contributing
 
-We welcome contributions! If you want to help, here’s how:
+We welcome contributions! If you want to get involved:
 
-1. Fork the repo  
-2. Create a feature or bug-fix branch  
-3. Write tests for new code  
-4. Follow coding style & security best practices  
-5. Submit a Pull Request with description & relevant issue #  
+1. Fork the repository.  
+2. Create a feature or bug-fix branch.  
+3. Include tests & documentation for new functionality.  
+4. Follow coding style & security best practices.  
+5. Open a Pull Request with details of the change and link to any related issue.  
 
-Please see [CONTRIBUTING.md] for more details.  
+See [CONTRIBUTING.md] for more info.
 
 ---
 
 ## License
 
-Most of our open-source components use permissive licensing (e.g. MIT, Apache-2.0 depending on the project). Check each repo for specific license. :contentReference[oaicite:22]{index=22}  
+Open-source components under permissive licenses (e.g. MIT or Apache-2.0). Each repo specifies its own license.
 
 ---
 
-## Contact & More Info
+## Official Community Channels
 
-- 🌐 Website: topayfoundation.com :contentReference[oaicite:23]{index=23}  
-- 📧 Email: contact@topayfoundation.com :contentReference[oaicite:24]{index=24}  
-- 📚 Docs: docs.topayfoundation.com  
-- 🐦 Twitter/X / other social channels: follow `@topayfoundation` :contentReference[oaicite:25]{index=25}  
+- Telegram: [t.me/topayfoundation](https://t.me/topayfoundation)  
+- Discord: [discord.gg/tqRcdbnvXx](https://discord.gg/tqRcdbnvXx)  
+- X (Twitter): [x.com/topayfoundation](https://x.com/topayfoundation)  
+
+---
+
+## Contact & More Information
+
+- Website: [topayfoundation.com](https://www.topayfoundation.com/)  
+- Docs: [docs.topayfoundation.com](https://docs.topayfoundation.com/)  
+- Email: <contact@topayfoundation.com>  
 
 ---
 
 ## Disclaimer
 
-This organization and all its repositories are for informational and development purposes. Use at your own risk. Not financial or legal advice.  
-
+This organization and its repositories are intended for development, educational, and informational use. Use at your own risk. This is not financial or legal advice.

@@ -1,10 +1,10 @@
 # TOPAY Foundation
 
 [![Website](https://img.shields.io/badge/website-topayfoundation.com-blue)](https://www.topayfoundation.com/)  
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-@topayfoundation-blue?logo=telegram)](https://t.me/topayfoundation)  
-[![Discord](https://img.shields.io/badge/Discord-Server-TOPAY-purple?logo=discord)](https://discord.gg/tqRcdbnvXx)  
-[![X / Twitter](https://img.shields.io/badge/X-@topayfoundation-skyblue?logo=x)](https://x.com/topayfoundation)  
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/TOPAY-FOUNDATION/.github/blob/main/LICENSE)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram)](https://t.me/topayfoundation)  
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/tqRcdbnvXx)  
+[![X / Twitter](https://img.shields.io/badge/X-@topayfoundation-black?logo=x)](https://x.com/topayfoundation)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
